@@ -1,5 +1,8 @@
 Revision history for Dancer-Plugin-WindowSession
 
+0.02    2012-10-15, agn
+        Back to old versioning scheme.
+
 0.2.1   2012-10-15, agn
         Bumped version to workaround pause.perl.org bad upload.
 

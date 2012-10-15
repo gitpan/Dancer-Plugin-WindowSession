@@ -2,7 +2,7 @@ NAME
     Dancer::Plugin::WindowSession - Manage Per-Browser-Window sessions.
 
 VERSION
-    version 0.2.1
+    version 0.02
 
 SYNOPSIS
             use Dancer;

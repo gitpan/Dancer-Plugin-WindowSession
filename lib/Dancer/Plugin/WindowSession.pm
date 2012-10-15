@@ -5,7 +5,7 @@ use warnings;
 use Clone;
 use Carp;
 
-our $VERSION = '0.2.1';
+our $VERSION = '0.02';
 
 use Dancer ':syntax';
 use Dancer::Plugin;
@@ -102,7 +102,7 @@ Dancer::Plugin::WindowSession - Manage Per-Browser-Window sessions.
 
 =head1 VERSION
 
-version 0.2.1
+version 0.02
 
 =head1 SYNOPSIS
 
